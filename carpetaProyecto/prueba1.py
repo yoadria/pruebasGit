@@ -1,6 +1,6 @@
 # fichero de prueba para el git
 
-print('Hola mundo')
+print('Hello, World!') #creando conflicto en nueva-rama
 
 # ahora hago modificaciones que no se tendran que ver en main
 
